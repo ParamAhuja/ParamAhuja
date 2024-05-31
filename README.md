@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Various projects.**
 
-- 🌱 I’m currently learning **AI and Data Science**
+- 🌱 I’m currently learning **Ml and Data Science**
 
 - 📫  You can contact me at **paramahuja04@gmail.com**
  
