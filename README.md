@@ -14,7 +14,7 @@
  
 - 👨‍💻 All of my projects are available at [coming-soon](coming-soon)
 
-- 📄 See my portfolio at [coming-soon](coming-soon)
+- 📄 See my portfolio at [paramahuja.me/](https://paramahuja.me/)
 
 - 📔 My resources are available at [coming-soon](coming-soon)
 
