@@ -12,9 +12,9 @@
 
 - 📫  You can contact me at **paramahuja04@gmail.com**
  
-- 👨‍💻 All of my projects are available at [coming-soon](coming-soon)
+- 📄 See my portfolio at [paramahuja.me](https://paramahuja.me/)
 
-- 📄 See my portfolio at [paramahuja.me/](https://paramahuja.me/)
+- 👨‍💻 All of my projects are available at [coming-soon](coming-soon)
 
 - 📔 My resources are available at [coming-soon](coming-soon)
 
